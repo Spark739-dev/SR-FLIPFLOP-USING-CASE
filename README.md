@@ -67,9 +67,13 @@ step-6 Run the program.
 
 **RTL LOGIC FOR FLIPFLOPS**
 
+<img width="1918" height="1145" alt="RTL" src="https://github.com/user-attachments/assets/33b3cedb-4887-4d62-9306-1da1da48e792" />
 
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
+
+<img width="1918" height="1138" alt="TIMIMG DIAGRAM" src="https://github.com/user-attachments/assets/548d2ccf-c521-4c8b-b473-74f77ffefc0b" />
+
 
 **RESULTS**
 
