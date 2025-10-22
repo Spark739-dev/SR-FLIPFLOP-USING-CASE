@@ -1,0 +1,81 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1\quartus\DE\SRFLIPFLOP\simulation\qsim
+vsrflipflop
+Z1 IgO?6:5BzSM8<]VHcHIN<H0
+Z2 VdSEBJSGc@9XO_N4AUAmiC2
+Z3 dC:\altera\13.0sp1\quartus\DE\SRFLIPFLOP\simulation\qsim
+Z4 w1761133330
+Z5 8srflipflop.vo
+Z6 Fsrflipflop.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+!i10b 1
+Z9 !s100 cgWmAh<Im097dL2HIVLH:1
+!s85 0
+Z10 !s108 1761133331.644000
+Z11 !s107 srflipflop.vo|
+Z12 !s90 -work|work|srflipflop.vo|
+!s101 -O0
+vsrflipflop_vlg_check_tst
+!i10b 1
+!s100 @VATK4@6T4kdNnSg:=V][3
+I6KA9i98L4K]P0j0i3I6]e2
+VWRo5]f1d7B<b:66fzLd8=0
+R3
+Z13 w1761133329
+Z14 8srflipflop.vt
+Z15 Fsrflipflop.vt
+L0 61
+R7
+r1
+!s85 0
+31
+Z16 !s108 1761133331.912000
+Z17 !s107 srflipflop.vt|
+Z18 !s90 -work|work|srflipflop.vt|
+!s101 -O0
+R8
+vsrflipflop_vlg_sample_tst
+!i10b 1
+!s100 k36i4e0RJf40J_O;<UMi43
+Ic_L6ZMCOeGaU`zY:oVE?R0
+V3_`S3k6f6LXB[VZOjQV<e0
+R3
+R13
+R14
+R15
+L0 29
+R7
+r1
+!s85 0
+31
+R16
+R17
+R18
+!s101 -O0
+R8
+vsrflipflop_vlg_vec_tst
+!i10b 1
+!s100 J81YDl[h4diPjJY]=Ek`R0
+IZ=?Z6<oPJ^JD?JJ;C53GM0
+VSgP<f4gc?Oj;JdGeLj;Aa0
+R3
+R13
+R14
+R15
+L0 183
+R7
+r1
+!s85 0
+31
+R16
+R17
+R18
+!s101 -O0
+R8
