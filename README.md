@@ -1,3 +1,6 @@
+## NAME: VESHWANTH.
+## REG NO: 212224230300
+## DATE: 22-10-2025
 # SR-FLIPFLOP-USING-CASE
 
 **AIM:**
@@ -34,15 +37,40 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 **Procedure**
 
-/* write all the steps invloved */
+step-1 Go to quartus software.
+
+step-2 Set new environment.
+
+step-3 Type the code to implement SR flipflop using verilog and validating their functionality using their functional tables.
+
+step-4 Run the program.
+
+step-5 Give inputs in the waveform table .
+
+step-6 Run the program.
 
 **PROGRAM**
 
-/* Program for flipflops and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
-*/
+    /* Program for flipflops and verify its truth table in quartus using Verilog programming. 
+    module srflipflop(s,r,clk,q,qbar);
+    input s,r,clk;
+    output reg q;
+    output qbar;
+    always@(posedge clk)
+    begin
+    q=s | (q & ~r);
+    end
+    assign qbar=~q;
+    endmodule
+
+    */
 
 **RTL LOGIC FOR FLIPFLOPS**
+
+
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
 **RESULTS**
+
+Thus the JK flipflop is implemented and verified by using Verilog HDL programming.
